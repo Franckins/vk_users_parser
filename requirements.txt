@@ -1,3 +1,4 @@
 vk-api==7.2
 configparser==3.5.0
 cx_Freeze==4.3.4
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
